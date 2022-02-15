@@ -42,3 +42,16 @@ While implementation is up to you, it is expected that you will make use of Lara
 ## 3. Delivery
 
 Please post your code to Github, Gitlab, Bitbucket, or similar and send us a link.
+
+## 4. Installation
+
+- Clone repository
+```
+git clone git@github.com:biancarosenbaum/nyt-best-sellers-api.git
+```
+- Run ``composer install``
+- copy ``.env.example`` and rename to ``.env``
+- Fill out ``NYT_API`` environment variables
+- Run ``php artisan key:generate``
+- Run ``php artisan test`` to run tests
+
