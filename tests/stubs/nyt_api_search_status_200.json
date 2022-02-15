@@ -1,0 +1,764 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 778,
+    "results": [
+        {
+            "title": "100 BULLETS DELUXE, BOOK 1",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 20 through 36.",
+            "contributor": "by Brian Azzarello and Eduaro Risso",
+            "author": "Brian Azzarello and Eduaro Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: BOOK ONE",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 1 through 19.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401232019",
+                    "isbn13": "9781401232016"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: DELUXE EDITION, BOOK FOUR",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 59 through 80.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401238076",
+                    "isbn13": "9781401238070"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-26",
+                    "bestsellers_date": "2013-05-11",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 9,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-19",
+                    "bestsellers_date": "2013-05-04",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 7,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-12",
+                    "bestsellers_date": "2013-04-27",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-05",
+                    "bestsellers_date": "2013-04-20",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: DELUXE EDITION, BOOK THREE",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 37 through 58.",
+            "contributor": "Brian Azzarello and Edward Risso",
+            "author": "Brian Azzarello and Edward Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401237290",
+                    "isbn13": "9781401237295"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401237290",
+                    "primary_isbn13": "9781401237295",
+                    "rank": 2,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-10-14",
+                    "bestsellers_date": "2012-09-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "21: The Final Unfinished Voyage of Jack Aubrey (Vol. Book 21)  (Aubrey/Maturin Novels)",
+            "description": null,
+            "contributor": null,
+            "author": "Patrick O'Brian",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0393339335",
+                    "isbn13": "9780393339338"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/10/31/books/review/31MCGRATH.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Book of Memories: A Novel",
+            "description": null,
+            "contributor": null,
+            "author": "Péter Nádas",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0312427964",
+                    "isbn13": "9780312427962"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/07/27/books/the-soul-of-proust-under-socialism.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Book of One's Own: People and Their Diaries",
+            "description": null,
+            "contributor": null,
+            "author": "Thomas Mallon",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0899192424",
+                    "isbn13": "9780899192420"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/1984/11/17/books/books-of-the-times-dear-diary.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/03/31/books/the-scribbling-millions.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Book of Reasons",
+            "description": null,
+            "contributor": null,
+            "author": "John Vernon",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0618082352",
+                    "isbn13": "9780618082353"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/09/19/books/wretched-excess.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A BOOK OF SECRETS",
+            "description": "The biographer tells the story of Vita Sackville-West and Violet Keppel.",
+            "contributor": "by Michael Holroyd",
+            "author": "Michael Holroyd",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Farrar, Straus & Giroux",
+            "isbns": [
+                {
+                    "isbn10": "0374115583",
+                    "isbn13": "9780374115586"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/08/05/books/a-book-of-secrets-by-michael-holroyd-review.html",
+                    "first_chapter_link": "https://www.nytimes.com/2011/08/04/books/excerpt-a-book-of-secrets-by-michael-holroyd.html",
+                    "sunday_review_link": "https://www.nytimes.com/2011/08/07/books/review/a-book-of-secrets-by-michael-holroyd-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Book of Silence",
+            "description": null,
+            "contributor": null,
+            "author": "Sara Maitland",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1582436134",
+                    "isbn13": "9781582436135"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2009/09/13/books/review/Browning-t.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A CHILD OF BOOKS",
+            "description": "Kids scale typographic mountains in a tribute to words.",
+            "contributor": "by Oliver Jeffers and Sam Winston",
+            "author": "Oliver Jeffers and Sam Winston",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Candlewick",
+            "isbns": [
+                {
+                    "isbn10": "0763690775",
+                    "isbn13": "9780763690779"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0763690775",
+                    "primary_isbn13": "9780763690779",
+                    "rank": 5,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2016-09-25",
+                    "bestsellers_date": "2016-09-10",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A CHILD'S FIRST BOOK OF TRUMP",
+            "description": "A comedian's parody picture book.",
+            "contributor": "by Michael Ian Black and Marc Rosenthal",
+            "author": "Michael Ian Black and Marc Rosenthal",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "isbns": [
+                {
+                    "isbn10": "1481488007",
+                    "isbn13": "9781481488006"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1481488007",
+                    "primary_isbn13": "9781481488006",
+                    "rank": 15,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2016-08-21",
+                    "bestsellers_date": "2016-08-06",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1481488007",
+                    "primary_isbn13": "9781481488006",
+                    "rank": 9,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2016-08-07",
+                    "bestsellers_date": "2016-07-23",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1481488007",
+                    "primary_isbn13": "9781481488006",
+                    "rank": 15,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2016-07-31",
+                    "bestsellers_date": "2016-07-16",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1481488007",
+                    "primary_isbn13": "9781481488006",
+                    "rank": 5,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2016-07-24",
+                    "bestsellers_date": "2016-07-09",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A COOKBOOK CONSPIRACY",
+            "description": "",
+            "contributor": "by Kate Carlisle",
+            "author": "Kate Carlisle",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Signet",
+            "isbns": [
+                {
+                    "isbn10": "0451415973",
+                    "isbn13": "9780451415974"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0451415973",
+                    "primary_isbn13": "9780451415974",
+                    "rank": 25,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2014-06-01",
+                    "bestsellers_date": "2014-05-17",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Dangerous Engine: Benjamin Franklin, from Scientist to Diplomat (Frances Foster Books)",
+            "description": null,
+            "contributor": null,
+            "author": "Joan Dash",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0374306699",
+                    "isbn13": "9780374306694"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/03/12/books/review/12downes.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Dangerous Profession: A Book About the Writing Life",
+            "description": null,
+            "contributor": null,
+            "author": "Frederick Busch",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0767903986",
+                    "isbn13": "9780767903981"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/10/25/books/odd-job.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Fine Balance (Oprah's Book Club)",
+            "description": null,
+            "contributor": null,
+            "author": "Rohinton Mistry",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "140003065X",
+                    "isbn13": "9781400030651"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/06/23/books/an-accidental-family.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A GAME OF THRONES: FIVE-BOOK SET",
+            "description": "The collected Song of Ice and Fire series.",
+            "contributor": "by George R. R. Martin",
+            "author": "George R R Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 19,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2015-07-05",
+                    "bestsellers_date": "2015-06-20",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 18,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2014-07-06",
+                    "bestsellers_date": "2014-06-21",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 20,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2014-05-04",
+                    "bestsellers_date": "2014-04-19",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 22,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2014-04-27",
+                    "bestsellers_date": "2014-04-12",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 11,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2013-12-22",
+                    "bestsellers_date": "2013-12-07",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 19,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2013-12-22",
+                    "bestsellers_date": "2013-12-07",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 22,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2013-12-15",
+                    "bestsellers_date": "2013-11-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0345535537",
+                    "primary_isbn13": "9780345535535",
+                    "rank": 13,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2013-12-15",
+                    "bestsellers_date": "2013-11-30",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Great Place to Die (Hardscrabble Books-Fiction of New England)",
+            "description": null,
+            "contributor": null,
+            "author": "Sean Connolly",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0874518113",
+                    "isbn13": "9780874518115"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/04/06/books/books-in-brief-fiction-338028.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Handbook for Drowning: Stories",
+            "description": null,
+            "contributor": null,
+            "author": "David Shields",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0060975318",
+                    "isbn13": "9780060975319"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/01/19/books/hey-walt-nobody-s-perfect.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A LITTLE BOOK OF SLOTH",
+            "description": "Meet the residents of the Avarios Sloth Sanctuary in Costa Rica. ",
+            "contributor": "by Lucy Cooke",
+            "author": "Lucy Cooke",
+            "contributor_note": "",
+            "price": "16.99",
+            "age_group": "Ages 5 to 8",
+            "publisher": "Margaret K. McElderry",
+            "isbns": [
+                {
+                    "isbn10": "1442445572",
+                    "isbn13": "9781442445574"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1442445572",
+                    "primary_isbn13": "9781442445574",
+                    "rank": 9,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2013-03-24",
+                    "bestsellers_date": "2013-03-09",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}
